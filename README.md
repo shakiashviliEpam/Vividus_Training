@@ -18,3 +18,4 @@
 
 1. Once the task is completed, make sure to commit all your local changes with commit message "{yourSurname}" to your current local branch.
 # Vividus_Training
+# Vividus_Training
